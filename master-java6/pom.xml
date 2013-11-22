@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   
   <parent>
-	<groupId>fr.nikokode</groupId>
+	<groupId>com.github.nicosensei</groupId>
 	<artifactId>maven-master</artifactId>
 	<version>1.0.0</version>
   </parent>  
